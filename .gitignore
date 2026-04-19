@@ -1,0 +1,4 @@
+lalr_parser
+lalr_parser.exe
+__pycache__/
+*.pyc
